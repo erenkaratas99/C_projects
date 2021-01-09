@@ -1,4 +1,7 @@
-// pass fail
+//This program aims to seperate passed and failed students according to their 4 homework grade means and printing the list on 2 files named fail.txt and pass.txt
+//pass-fail conditions:
+//mean>=30 ===> pass
+//mean<30  ===> fail
 
 #include <stdio.h>
 #include <math.h>
