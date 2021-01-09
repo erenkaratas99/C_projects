@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+//the code given below, encrypts a message that has been entered by user.
+//printing the decrypted form of message is optional
 
 int main()
 {
