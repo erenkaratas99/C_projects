@@ -1,4 +1,4 @@
-//Q2 W/FÝLE
+//curve fitting for the type = y=ax^b
 
 #include <stdio.h>
 #include <stdlib.h>
