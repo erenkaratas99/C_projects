@@ -1,4 +1,9 @@
 //Radar
+
+
+//10x10 zeros matrix represents the radar screen from top view, plane makes a random move with maximum manoeuvre angle of 45. Code tries to estimate location of the plane
+//at the t=7 from its previous move
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
